@@ -1,5 +1,5 @@
 """
-Author: <YOUR REAL FIRST AND LAST NAME>
+Author: Arman Milani
 Assignment: #2
 Description: Port Scanner — A tool that scans a target machine for open network ports
 """
